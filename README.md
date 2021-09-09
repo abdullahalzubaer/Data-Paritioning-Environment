@@ -1,5 +1,7 @@
 # Masters-Thesis
-Formulating the problem of data partitioning in a reinforcement learning framework. A working environment suitable for applying DRL agents, with options tailored towards improving its efficiency, such as file and runtime caching
+Formulating the problem of data partitioning in a reinforcement learning framework. A working environment suitable for applying DRL agents, with options tailored towards improving its efficiency, such as file and runtime caching.
+
+---
 
 This environment can be executed directly in Colab (in future hopefully I will provide how we can pip install this environment and can adapt it as any other gym environment).
 
