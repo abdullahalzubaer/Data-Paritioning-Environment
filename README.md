@@ -7,6 +7,18 @@ This environment can be executed directly in Colab (in future hopefully I will p
 
 ---
 
+Dataset
+---
+As a benchmark dataset, I have used Transaction Processing Performance Council
+Benchmark (TPC-H) for performing the experiments.
+
+The benchmark consists of 8 tables and 22 queries
+
+According to this repository (how I have set up the environment class for executing in Colab), for accessing, the dataset can be uploaded on Google Drive. 
+
+Dataset Source: http://www.tpc.org/tpch/
+
+
 There are two files:
 ```
 environment_class.py -> The environment class
